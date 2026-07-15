@@ -28,8 +28,8 @@
                         "props": {
                           "style": {
                             "color": "#111111",
-                            "fontSize": "25px",
-                            "fontWeight": 800,
+                            "fontSize": "20px",
+                            "fontWeight": 600,
                             "letterSpacing": "1.6px",
                             "textTransform": "uppercase"
                           },
