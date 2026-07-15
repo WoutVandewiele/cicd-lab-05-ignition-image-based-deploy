@@ -28,7 +28,7 @@
                         "props": {
                           "style": {
                             "color": "#111111",
-                            "fontSize": "11px",
+                            "fontSize": "20px",
                             "fontWeight": 600,
                             "letterSpacing": "1.6px",
                             "textTransform": "uppercase"
